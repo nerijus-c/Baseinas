@@ -8,3 +8,5 @@ RegEx
 selenium
 numpy
 schedule
+dash
+plotly.express
