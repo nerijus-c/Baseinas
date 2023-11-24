@@ -10,3 +10,4 @@ numpy
 schedule
 dash
 plotly-express
+gunicorn==19.7.1
