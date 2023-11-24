@@ -8,6 +8,7 @@ avocado = pd.read_csv('Baseino_laisvos_vietos_cleen.csv')
 # fig = px.line(avocado, x="Hour", y="Laisvos_vietos")
 # Create the Dash app
 app = Dash()
+server = app.server
 
 
 cats = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']

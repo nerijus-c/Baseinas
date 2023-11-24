@@ -9,4 +9,4 @@ selenium
 numpy
 schedule
 dash
-plotly.express
+plotly-express
