@@ -1,0 +1,10 @@
+requests
+BeautifulSoup4
+psycopg2
+pandas
+matplotlib
+pylab-sdk
+RegEx
+selenium
+numpy
+schedule
